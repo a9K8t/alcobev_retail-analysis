@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Retail & Warehouse Sales Analytics
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -290,3 +291,6 @@ python python/generate_charts.py
 ```bash
 python -m unittest discover tests -v
 ```
+=======
+# ALCOBEV_Retail_Analysis
+>>>>>>> 0a8c23e2a132d4dd56f7b80340abce7799792ff2
